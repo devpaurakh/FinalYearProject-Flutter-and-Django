@@ -217,5 +217,18 @@ If your are using VScode got to top menu bar find Run inside the run click "Run 
 | `Owner_name, Venue_name`      | `string` | **Required**. Access_Token |
 
 
+## ScreenShots
+<img width="324" alt="Screenshot 2024-07-11 at 11 34 31 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/2a83ce47-5988-43a2-8fdd-1a0ffd6845ae">
+<img width="324" alt="Screenshot 2024-07-11 at 11 34 25 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/2a89d97a-f30c-4f36-a906-991e6bec292c">
+<img width="326" alt="Screenshot 2024-07-11 at 11 34 16 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/678f0fff-5e42-4def-9c56-264fbd9deac6">
+<img width="321" alt="Screenshot 2024-07-11 at 11 34 08 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/c6d657a4-2b68-4076-a7ea-98f06aa36b33">
+<img width="321" alt="Screenshot 2024-07-11 at 11 34 01 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/30121031-e4d2-4353-849a-3260733d4551">
+<img width="323" alt="Screenshot 2024-07-11 at 11 33 55 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/88f598cd-8e95-4a25-842e-e53136ef4bc5">
+<img width="321" alt="Screenshot 2024-07-11 at 11 33 47 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/04ba4cee-f2e9-4541-b01e-3c2ade4ca447">
+<img width="312" alt="Screenshot 2024-07-11 at 11 33 42 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/dc151376-2c28-4397-a0a8-3afad2ddf71a">
+<img width="326" alt="Screenshot 2024-07-11 at 11 33 35 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/c442d7cd-50ed-40a8-b28e-01da03182837">
+<img width="324" alt="Screenshot 2024-07-11 at 11 33 29 AM" src="https://github.com/devpaurakh/KHArCHA/assets/100192320/bed4b01b-9c9a-4b9b-a447-4bb84420df02">
+
+
 
 
